@@ -1,0 +1,25 @@
+body {
+	font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+button {
+	color: white;
+	background: rgb(255, 115, 0);
+	font-weight: bold;
+	border-radius: 4px;
+	border-width: 0;
+	padding: 4px;
+	outline: none;
+    border: solid 1px white;
+
+}
+button:hover {
+	background: #66f;
+}
+
+.wrapper{
+    border-style: ridge;
+    font-family: 'Times New Roman', Times, serif;
+}
+
